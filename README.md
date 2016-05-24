@@ -1,6 +1,10 @@
 Browserify Prelude
 ==================
 
+#### # 01
+1. Initialize project
+
+#### # 02
 1. Crear el archivo `public/js/main.js`
 2. Ejecutar `public/js/main.js` con node
 3. Instalar dependencias
@@ -10,10 +14,10 @@ Browserify Prelude
 6. Generar `public/js/bundle.js`
 
         browserify main.js -o -bundle.js
-8. Crear `public/index.html` e incluir el script `main.js`
-9. Incluir `bundle.js` en `public/index.html`
 
-
+#### # 03
+1. Crear `public/index.html` e incluir el script `main.js`
+2. Incluir `bundle.js` en `public/index.html`
 
 
 [Browserify Documentation](https://www.google.com)
