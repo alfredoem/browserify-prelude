@@ -20,4 +20,4 @@ Browserify Prelude
 2. Incluir `bundle.js` en `public/index.html`
 
 
-[Browserify Documentation](https://www.google.com)
+[Browserify Documentation](https://github.com/substack/node-browserify#browserify)
